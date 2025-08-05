@@ -1,0 +1,21 @@
+{
+  "name": "NeWorldCoin Token List",
+  "logoURI": "https://raw.githubusercontent.com/NeWorldCoin/neworldcoin-assets/refs/heads/main/logo.svg",
+  "keywords": ["nwc", "neworldcoin", "bep20", "rewards", "crypto", "BNBChain"],
+  "timestamp": "2025-08-05T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xb22f7282aF0F418F13172Ff12D2b24655C0D30Ac",
+      "symbol": "NWC",
+      "name": "NeWorldCoin",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/NeWorldCoin/neworldcoin-assets/refs/heads/main/logo.svg"
+    }
+  ]
+}
