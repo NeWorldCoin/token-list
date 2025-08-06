@@ -1,7 +1,7 @@
 {
   "name": "NeWorldCoin Token List",
   "logoURI": "https://raw.githubusercontent.com/NeWorldCoin/neworldcoin-assets/main/logo.svg",
-  "keywords": ["nwc", "neworldcoin", "bep20", "rewards", "crypto", "BNBChain"],
+  "keywords": "keywords": ["nwc", "NWC", "neworldcoin", "bep20", "rewards", "crypto", "BNBChain"],
   "timestamp": "2025-08-05T00:00:00+00:00",
   "version": {
     "major": 1,
